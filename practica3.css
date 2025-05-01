@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+    
+}
+
+.button{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    text-size-adjust: 190px;
+
+}
+.press.button{
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(237, 98, 98, 0.64);
+    width: 25%;
+    border-radius: 20px;
+    color: aliceblue;
+    font-size: 30px;
+}
